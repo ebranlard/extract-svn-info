@@ -1,4 +1,5 @@
 :: Extract relevant informations from a SVN directory
+:: The info can then be used for automatic software/document versioning 
 
 
 @echo off
